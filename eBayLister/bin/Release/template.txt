@@ -1,0 +1,36 @@
+<style type="text/css">
+hr{
+	width: 50%;
+	border-style: dashed;
+	color: #333;
+}
+#header{
+	background-color: #000;
+	color: #fff;
+	padding: 10px 50px 10px 20px;	
+}
+#content{
+	border-style:solid;
+	border-width:1px;
+	padding:20px;
+}
+</style>
+<div id="header">
+	<h1 align='center'>{0}</h1>
+	<p align="right">
+	- {1}</br>
+	( {2} )
+	</p>
+</div>
+<div id="content">
+	<img src="http://p.ebaystatic.com/aw/pics/in/logos/logoEbay_x45.gif" /></br>
+	</br><b>Author : </b>{1}</br>
+	<b>Publisher : </b>{2}</br>
+	<b>Publish Date : </b>{3}</br>
+	<b>Binding : </b>{4}</br>
+	<b>ISBN : </b>{5}</br>
+	{6}
+	<b>Weight : </b>{7}</br>
+	</br><b>Notes : </b>{8}</br>
+	</br><hr></br>{9}</br>
+</div>

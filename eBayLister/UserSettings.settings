@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="eBayLister" GeneratedClassName="UserSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="devId" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="appId" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="certId" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="userToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="soapApiServerUrl" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">https://api.ebay.com/wsapi</Value>
+    </Setting>
+    <Setting Name="MySQLHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="MySQLUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="MySQLPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MySQLDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ebay_data</Value>
+    </Setting>
+    <Setting Name="ApiVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">647</Value>
+    </Setting>
+    <Setting Name="Timeout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">60000</Value>
+    </Setting>
+    <Setting Name="Site" Type="System.String" Scope="User">
+      <Value Profile="(Default)">India</Value>
+    </Setting>
+    <Setting Name="ConversionRate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">45</Value>
+    </Setting>
+    <Setting Name="Returns" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Returns Accepted</Value>
+    </Setting>
+    <Setting Name="returnsWithin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7 Days</Value>
+    </Setting>
+    <Setting Name="Refund" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Money Back</Value>
+    </Setting>
+    <Setting Name="returnsShippingCostPaidBy" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Buyer</Value>
+    </Setting>
+    <Setting Name="shippingCost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="handlingTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1 business day</Value>
+    </Setting>
+    <Setting Name="itemCountry" Type="System.String" Scope="User">
+      <Value Profile="(Default)">US</Value>
+    </Setting>
+    <Setting Name="itemPincode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">77406</Value>
+    </Setting>
+    <Setting Name="itemCityState" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Richmond, Texas</Value>
+    </Setting>
+    <Setting Name="FTPHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FTPUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FTPPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FTPDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FTPFileExt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.txt</Value>
+    </Setting>
+    <Setting Name="FTPPollingInterval" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ListInCategory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test Auctions</Value>
+    </Setting>
+    <Setting Name="listingDuration" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7 Days</Value>
+    </Setting>
+    <Setting Name="paymentInstructions" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

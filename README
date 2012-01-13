@@ -1,0 +1,6 @@
+Downloads tab delimited files from the specified FTP location and dumps data from those files to MySQL.
+Then, using the eBay API lists this data on eBay.
+
+NOTE : I'd developed this application back in 2009. eBay API have changed drastically since then. So 
+the application wouldn't work out of the box. I have put it up here just for my reference.
+Let me know if anybody is interested in using my code, I will be glad to help.
