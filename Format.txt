@@ -1,0 +1,1 @@
+SKU	Author	Title	Book condition	Book size	Jacket condition	Binding	ISBN	Publisher	Publish Place	Publish Date	Edition	Signature	Notes	Quantity	Price	Image	Category 1	Category 2	Category 3	Category 4	Category 5	Keyword 1	Keyword 2	Keyword 3	Keyword 4	Keyword 5	Keyword 6	Keyword 7	Keyword 8	Keyword 9	Weight	UPC	Description
